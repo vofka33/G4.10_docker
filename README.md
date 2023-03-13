@@ -12,3 +12,5 @@ http://localhost:1337
 логин: admin
 пароль: admin
 ```
+
+![Скрин](http://joxi.ru/gmvkD9BT0ZG7G2)
